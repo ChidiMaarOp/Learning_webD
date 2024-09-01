@@ -43,7 +43,7 @@ body {
 	flex-direction: column;
 	align-items: center;
 	padding: 2em;
-	margin-top: 100px;
+	margin-top: 60px;
 }
 .hero {
 	background-image: linear-gradient(to bottom, #333, #555);
@@ -56,7 +56,7 @@ body {
 	background-image: url('hero-bg.jpg');
 	background-size: cover;
 	background-position: center;
-	height: 100%;
+	height: 100vh;
 	width: 100%;
 	position: absolute;
 	top: 0;
